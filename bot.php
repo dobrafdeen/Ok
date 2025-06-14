@@ -1,6 +1,6 @@
 <?php
 // إعدادات البوت
-$bot_token = "7465262401:AAGN-vBzFsBSWe8vqy_YNlrvVfHNa7vPkHM";
+$bot_token = "8099690773:AAGP-yu9PjMbfTmRRRPj_nrZ6daPPdeKwRg";
 $admin_id = 6873334348;
 $channel_id = "-1002530096487";
 $data_file = "subs.json";
